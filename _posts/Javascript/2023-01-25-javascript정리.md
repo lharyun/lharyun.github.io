@@ -5,6 +5,10 @@ categories: Javascript
 tag: [Javascript]
 ---
 
+## React 정리 
+
+
+
 
 
 #### "=="와 "==="의 차이점
@@ -13,7 +17,7 @@ tag: [Javascript]
 
 "==" 연산자는 타입 변환이 필요한 경우 타입 변환을 한 후에 동등한지 비교합니다. '==='연산자는 타입 변환을 하지 않으므로 두 값이 같은 타입이 아닌 경우 '==='는 false를 반환합니다.
 
-<hr/>
+
 
 
 
@@ -23,9 +27,11 @@ tag: [Javascript]
 
 boolean, number, string, undefined, null, object, symbol이 있습니다.
 
-<hr/ >
 
-#### 
+
+
+
+
 
 #### undefined과 null의 차이에 대해
 
@@ -33,7 +39,7 @@ boolean, number, string, undefined, null, object, symbol이 있습니다.
 
 undefined는 변수를 선언했지만 값이 할당되지 않은 변수입니다. null은 명시적으로 할당한 것입니다. 그것은 값을 나타내지는 않지만 명시적으로 할당했다는 점에서 undefined와 다릅니다.
 
-<hr/ >
+
 
 
 
@@ -43,7 +49,7 @@ undefined는 변수를 선언했지만 값이 할당되지 않은 변수입니�
 
 var 키워드로 선언되거나 초기화된 변수는 현재 스코프의 최상위까지 옮겨집니다. 이것을 호이스팅이라고 부릅니다. 선언문만 호이스팅되며 할당(있는 경우)은 호이스팅이 되지 않습니다.
 
-<hr/ >
+
 
 
 
@@ -57,7 +63,7 @@ var는 호이스팅이 되지만 let과 const는 호이스팅이 되지 않습�
 
 또한 var는 재할당, 재선언 모두 가능하지만, let은 재할당만 가능하며 재선언은 불가능 하고 const는 모두 불가능합니다.
 
-<hr/ >
+
 
 
 
@@ -71,7 +77,7 @@ var는 호이스팅이 되지만 let과 const는 호이스팅이 되지 않습�
 
 엄격모드('use strict')일 경우 this는 undefined입니다.
 
-<hr/ >
+
 
 
 
