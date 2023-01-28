@@ -3,7 +3,8 @@ layout: single
 title: "Javscript정리"
 categories: Javascript
 tag: [Javascript]
-poc: true
+toc: true
+author_profile: false
 ---
 
 ## React 정리 
