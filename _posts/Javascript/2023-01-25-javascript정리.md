@@ -7,11 +7,7 @@ toc: true
 author_profile: false
 ---
 
-## React 정리 
-
-
-
-
+## Javascript 정리 
 
 #### "=="와 "==="의 차이점은?
 
@@ -31,17 +27,11 @@ boolean, number, string, undefined, null, object, symbol이 있습니다.
 
 
 
-
-
-
-
 #### undefined과 null의 차이에 대해.
 
 <hr/ >
 
 undefined는 변수를 선언했지만 값이 할당되지 않은 변수입니다. null은 명시적으로 할당한 것입니다. 그것은 값을 나타내지는 않지만 명시적으로 할당했다는 점에서 undefined와 다릅니다.
-
-
 
 
 
