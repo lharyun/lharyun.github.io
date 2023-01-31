@@ -276,7 +276,6 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
       read_time: true
       comments: true
       share: true
@@ -284,5 +283,10 @@ defaults:
       mathjax: true
       sidebar_main: true
       show_date: true
+      toc: true
+      toc_sticky: true
+      toc_label: 목차
+      toc_icon: "fa-solid fa-flag"
+      author_profile: false
 
 date_format: "%Y-%m-%d"
