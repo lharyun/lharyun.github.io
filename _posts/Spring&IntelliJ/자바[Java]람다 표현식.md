@@ -1,3 +1,17 @@
+---
+layout: single
+title: "자바 람다 표현식"
+categories: JAVA
+tag: [Spring&IntelliJ]
+toc: true
+author_profile: false
+
+---
+
+
+
+
+
 # 자바 람다 표현식 (lamda expression)
 
 #### 람다 표현식(lambda expression)이란?
